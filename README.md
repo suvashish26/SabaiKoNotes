@@ -1,8 +1,8 @@
-#SabaiKoNotes
+# SabaiKoNotes
 
 A collaborative note-sharing and learning platform with gamified "Knowledge Challenges" to help students study, share notes, and test their understanding.
 
-#Features
+# Features
 
 
 Knowledge Challenges – gamified quizzes to test understanding
@@ -11,11 +11,11 @@ Discussion Forums – comment and collaborate on shared notes
 Responsive UI – sticky navbar, smooth scrolling
 
 
-#Tech Stack
+# Tech Stack
 
 Python · Django · HTML · CSS
 
-#Setup
+# Setup
 
 ```bash
 git clone https://github.com/<your-username>/SabaiKoNotes.git
